@@ -1,0 +1,14 @@
+﻿  HuffmanEncoding.cpp
+C:\Users\Isomorphism\Documents\Repos\learn-cpp\HuffmanEncoding\HuffmanEncoding\HuffmanEncoding.cpp(65,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Isomorphism\Documents\Repos\learn-cpp\HuffmanEncoding\HuffmanEncoding\HuffmanEncoding.cpp(21,7): error C2039: 'transform': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\map(21): message : see declaration of 'std'
+C:\Users\Isomorphism\Documents\Repos\learn-cpp\HuffmanEncoding\HuffmanEncoding\HuffmanEncoding.cpp(72): message : see reference to function template instantiation 'std::multimap<int,char,std::less<int>,std::allocator<std::pair<const _Kty,_Ty>>> flip_map<char,int,std::map,std::less<_Ty>,std::allocator<std::pair<const char,int>>>(const std::map<char,int,std::less<_Ty>,std::allocator<std::pair<const char,int>>> &)' being compiled
+C:\Users\Isomorphism\Documents\Repos\learn-cpp\HuffmanEncoding\HuffmanEncoding\HuffmanEncoding.cpp(72): message :         with
+C:\Users\Isomorphism\Documents\Repos\learn-cpp\HuffmanEncoding\HuffmanEncoding\HuffmanEncoding.cpp(72): message :         [
+C:\Users\Isomorphism\Documents\Repos\learn-cpp\HuffmanEncoding\HuffmanEncoding\HuffmanEncoding.cpp(72): message :             _Kty=int,
+C:\Users\Isomorphism\Documents\Repos\learn-cpp\HuffmanEncoding\HuffmanEncoding\HuffmanEncoding.cpp(72): message :             _Ty=char
+C:\Users\Isomorphism\Documents\Repos\learn-cpp\HuffmanEncoding\HuffmanEncoding\HuffmanEncoding.cpp(72): message :         ]
+C:\Users\Isomorphism\Documents\Repos\learn-cpp\HuffmanEncoding\HuffmanEncoding\HuffmanEncoding.cpp(22,8): error C2039: 'inserter': is not a member of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\map(21): message : see declaration of 'std'
+C:\Users\Isomorphism\Documents\Repos\learn-cpp\HuffmanEncoding\HuffmanEncoding\HuffmanEncoding.cpp(19,1): error C3861: 'inserter': identifier not found
+C:\Users\Isomorphism\Documents\Repos\learn-cpp\HuffmanEncoding\HuffmanEncoding\HuffmanEncoding.cpp(19,1): error C3861: 'transform': identifier not found
