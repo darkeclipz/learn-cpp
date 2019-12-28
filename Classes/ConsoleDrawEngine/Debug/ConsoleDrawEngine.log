@@ -1,0 +1,12 @@
+﻿  ConsoleGameEngine.cpp
+C:\Users\Isomorphism\Documents\Repos\learn-cpp\ConsoleDrawEngine\ConsoleDrawEngine\ConsoleGameEngine.cpp(34,72): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Isomorphism\Documents\Repos\learn-cpp\ConsoleDrawEngine\ConsoleDrawEngine\ConsoleGameEngine.cpp(35,72): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Isomorphism\Documents\Repos\learn-cpp\ConsoleDrawEngine\ConsoleDrawEngine\ConsoleGameEngine.cpp(36,72): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Isomorphism\Documents\Repos\learn-cpp\ConsoleDrawEngine\ConsoleDrawEngine\ConsoleGameEngine.cpp(37,72): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Isomorphism\Documents\Repos\learn-cpp\ConsoleDrawEngine\ConsoleDrawEngine\ConsoleGameEngine.cpp(38,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isomorphism\Documents\Repos\learn-cpp\ConsoleDrawEngine\ConsoleDrawEngine\ConsoleGameEngine.cpp(38,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isomorphism\Documents\Repos\learn-cpp\ConsoleDrawEngine\ConsoleDrawEngine\ConsoleGameEngine.cpp(55,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isomorphism\Documents\Repos\learn-cpp\ConsoleDrawEngine\ConsoleDrawEngine\ConsoleGameEngine.cpp(55,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isomorphism\Documents\Repos\learn-cpp\ConsoleDrawEngine\ConsoleDrawEngine\ConsoleGameEngine.cpp(56,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Isomorphism\Documents\Repos\learn-cpp\ConsoleDrawEngine\ConsoleDrawEngine\ConsoleGameEngine.cpp(56,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  ConsoleDrawEngine.vcxproj -> C:\Users\Isomorphism\Documents\Repos\learn-cpp\ConsoleDrawEngine\Debug\ConsoleDrawEngine.exe
